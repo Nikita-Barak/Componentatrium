@@ -12,5 +12,5 @@ The project features an outer space landscape with moving objects.
 
 ## Assets:
 
--[Foozlecc - Space Background](https://foozlecc.itch.io/void-environment-pack?download)
--[Ax Assets - Other Assets](https://axassets.itch.io/spaceship-simple-assets)
+- [Foozlecc - Space Background](https://foozlecc.itch.io/void-environment-pack?download)
+- [Ax Assets - Other Assets](https://axassets.itch.io/spaceship-simple-assets)
