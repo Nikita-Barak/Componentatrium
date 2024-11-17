@@ -3,12 +3,17 @@
 This is a simple 2D Unity project demonstrating basic movement of objects and button-clicking. 
 The project features an outer space landscape with moving objects.
 
+[Itch.io link](https://shutafimpro.itch.io/componentarium)
+
 ## Features
 
 - Oscillation - A moving asteroid that moves back and forth on an x-axis.
 - Rotation - A rotating satelite-like ship.
 - Heartbeat - A light object that inflates and deflates and a heartbeat pace.
-- UP Icon - A small icon that appears/disappears on mouse left-clicks.
+- On/Off - A small icon that appears/disappears on mouse left-clicks.
+
+## Itch.io link:
+  https://shutafimpro.itch.io/componentarium
 
 ## Assets:
 
