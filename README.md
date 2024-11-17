@@ -12,9 +12,6 @@ The project features an outer space landscape with moving objects.
 - Heartbeat - A light object that inflates and deflates and a heartbeat pace.
 - On/Off - A small icon that appears/disappears on mouse left-clicks.
 
-## Itch.io link:
-  https://shutafimpro.itch.io/componentarium
-
 ## Assets:
 
 - [Foozlecc - Space Background](https://foozlecc.itch.io/void-environment-pack?download)
