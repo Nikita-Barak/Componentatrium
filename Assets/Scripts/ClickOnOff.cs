@@ -28,10 +28,16 @@ public class ClickOnOff : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(turnOnOff.WasPressedThisFrame())
+        if (turnOnOff.WasPressedThisFrame()) // Fix on line 31: Added a space after `if`.
         {
-            if(rend.enabled) rend.enabled = false;
-            else rend.enabled = true; 
+            if (rend.enabled)                // Fix on line 33: Added a space after `if`.
+            {
+                rend.enabled = false;        // Fix on line 34: Properly indented this block with 9 spaces.
+            }
+            else
+            {
+                rend.enabled = true;
+            }
         }
     }
 }
